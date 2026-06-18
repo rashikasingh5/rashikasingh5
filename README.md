@@ -12,12 +12,12 @@ Currently at Visa → Working on petabyte-scale AI-native data layers.
 
 ## Recent projects
 
-- ** AI Ads Copy Generator | GPT-5.4, FastAPI, React, Redis
+- ** AI Ads Copy Generator ** | GPT-5.4, FastAPI, React, Redis
 Built an LLM system that generates, ranks, and A/B tests ad creatives at scale, lifting CTR by 35%
 - ** Conversational Sales AI Agent | LangGraph, RAG, Pinecone, Salesforce APIs
 Designed a multi-agent system that qualifies leads, personalizes outreach, and auto-books meetings via
 CRM, streamlining the sales pipeline
-- ** AI Recommendation Engine | PySpark, Pinecone, FastAPI
+- ** AI Recommendation Engine **| PySpark, Pinecone, FastAPI
 Built a real-time personalization system using collaborative filtering and embeddings, demonstrating end-toend
 ML pipeline design
 
