@@ -12,13 +12,16 @@ Currently at Visa → Working on petabyte-scale AI-native data layers.
 
 ## Recent projects
 
-- **[Self-Healing RAG Pipeline]** - RAG system with failure detection that auto-retries via query expansion, re-ranking, and retriever fallbacks; escalates on low confidence; built with LlamaIndex, Pinecone, Claude and FastAPI
-- **[AI Data Pipeline Monitor]** - Monitors ETL pipelines for anomalies and generates natural-language alerts with root-cause analysis; reducing incident triage time by 50%; built with GPT-4, Kafka, Prometheus and Streamlit
-- **[SQL Copilot]** - LLM-powered assistant that converts natural-language questions into optimized SQL queries over BigQuery, reducing analyst query time by 60%
+- ** AI Ads Copy Generator | GPT-5.4, FastAPI, React, Redis
+Built an LLM system that generates, ranks, and A/B tests ad creatives at scale, lifting CTR by 35%
+- ** Conversational Sales AI Agent | LangGraph, RAG, Pinecone, Salesforce APIs
+Designed a multi-agent system that qualifies leads, personalizes outreach, and auto-books meetings via
+CRM, streamlining the sales pipeline
+- ** AI Recommendation Engine | PySpark, Pinecone, FastAPI
+Built a real-time personalization system using collaborative filtering and embeddings, demonstrating end-toend
+ML pipeline design
 
 ## Get in touch
 
 LinkedIn - www.linkedin.com/in/rashikasingh5
 Email - singhrashika05@gmail.com
-
-Most of my recent work has been in private repositories at Visa. The projects in github represent my personal and open source work.
