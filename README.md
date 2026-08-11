@@ -22,5 +22,6 @@ Designed a multi-agent system that qualifies leads, personalizes outreach, and a
 Built a real-time personalization system using collaborative filtering and embeddings, demonstrating end-to-end ML pipeline design.
 ## Get in touch
 
+Substack - https://rashikasingh5.substack.com
 LinkedIn - www.linkedin.com/in/rashikasingh5
 Email - singhrashika05@gmail.com
