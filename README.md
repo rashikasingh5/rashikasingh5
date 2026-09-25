@@ -1,27 +1,35 @@
-## Hey, I'm Rashika Singh
+## Hi, I'm Rashika Singh
 
-AI Engineer building RAG pipelines, AI agents, and production LLM systems.
-Currently at Visa → Working on petabyte-scale AI-native data layers.
+Applied AI at Visa. I build AI products people actually use: RAG, agents and LLM evaluation, from problem definition to adoption. Visa GenAI Ambassador.
+
+[Website](https://rashikasingh5.github.io) · [LinkedIn](https://www.linkedin.com/in/rashikasingh5/) · [Substack](https://rashikasingh5.substack.com)
+
+## Open-source projects
+
+**[llm_evals](https://github.com/rashikasingh5/llm_evals)**
+LLM-as-judge and pairwise evaluation harness that catches the silent failures that make eval scores lie. Write-up: *The Practitioner's Guide to LLM Evaluations* on Substack.
+
+**[self_healing_rag](https://github.com/rashikasingh5/self_healing_rag)**
+A RAG service that knows when it's unsure. It scores retrieval confidence, retries with query expansion and re-ranking, and escalates instead of guessing. LlamaIndex, Pinecone, Claude, FastAPI.
+
+**[company_brain_rag](https://github.com/rashikasingh5/company_brain_rag)**
+Internal knowledge assistant: upload company documents (policies, runbooks, onboarding docs), ask questions, and get grounded answers with sources. FastAPI, Docker.
+
+**[llm_control_analyzer](https://github.com/rashikasingh5/llm_control_analyzer)**
+Uses LLMs to map security incidents to relevant risk controls. A sanitized enterprise demo on synthetic data. FastAPI, Docker.
 
 ## What I work with
 
-**AI/ML:** LLMs (GPT-4, Claude), RAG, LangChain, Hugging Face, LangGraph
-**Backend:** Python, FastAPI, SQL, Docker, Kubernetes
-**Data:** Vector DBs (Pinecone, Weaviate), PostgreSQL, Ray
-**Tools:** Streamlit, GitHub Actions, AWS
+**AI:** LLMs (Claude, GPT), RAG, LangChain, LangGraph, LlamaIndex, MCP, LLM evaluation
+**Data & backend:** Python, SQL, PySpark, Airflow, FastAPI, Docker, AWS, vector databases (Pinecone)
 
-## Recent projects
+## Writing
 
-### AI Ads Copy Generator | GPT-5.4, FastAPI, React, Redis
-Built an LLM system that generates, ranks, and A/B tests ad creatives at scale, lifting CTR by 35%.
+- [The Practitioner's Guide to LLM Evaluations](https://rashikasingh5.substack.com)
+- [How AI Products Actually Fail in Production](https://rashikasingh5.substack.com)
 
-### Conversational Sales AI Agent | LangGraph, RAG, Pinecone, Salesforce APIs
-Designed a multi-agent system that qualifies leads, personalizes outreach, and auto-books meetings via CRM, streamlining the sales pipeline.
+More at [rashikasingh5.substack.com](https://rashikasingh5.substack.com).
 
-### AI Recommendation Engine | PySpark, Pinecone, FastAPI
-Built a real-time personalization system using collaborative filtering and embeddings, demonstrating end-to-end ML pipeline design.
 ## Get in touch
 
-Substack - https://rashikasingh5.substack.com
-LinkedIn - www.linkedin.com/in/rashikasingh5
-Email - singhrashika05@gmail.com
+singhrashika05@gmail.com
